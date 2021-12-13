@@ -1,0 +1,3 @@
+[submodule "youtube_api"]
+	path = youtube_api
+	url = git@github.com:mingyangshih/youtube_api.git
